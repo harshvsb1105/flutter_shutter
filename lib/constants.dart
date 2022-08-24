@@ -1,0 +1,6 @@
+class Constants {
+  static const String consumerKey = 'a79bKYVrpRcRTCTU91jrHvRzplGWfo9D';
+  static const String consumerSecret = '1B5N7SjB5TbHkhF6';
+  static const String authToken = 'v2/YTc5YktZVnJwUmNSVENUVTkxanJIdlJ6cGxHV2ZvOUQvMzQxMzYxMDU5L2N1c3RvbWVyLzQvWFNCNnhycm1meDFtNzl0S0ZmUXVlcFFfckZER1RpYU1wY0FYeWZKTl8wOVU0NDdKQmZ1TmJDQjJuektOd00wMVR0Vmp4bjhTNXV1MUhuSTNva0U4WjhZZG1vV1JYeFYwdDFaZ3N0RW13NTZ3RDNQd3BJcnBBUUZtdndPN1IyZWNsYTg3dWpwX3lRaGlyMm1Ud1FwUGo4NjBfUGZKeTZhOENJdzBnc19JRlcydVp2b0huUWRlQjd5a1JyaGxYV2VQTHN0N19VanVQeElNU0tFcWxQRkVxQS9DUklTTVJkRTJQTnNfLUoxU04tcV9R';
+  static const String baseUrl = "https://api.shutterstock.com";
+}
